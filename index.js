@@ -1,1 +1,1 @@
-document.write("Hello world")
+document.write("I love you Purba")
